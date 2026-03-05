@@ -1,4 +1,6 @@
 # LnuxAssessment
+# Name - Jasminder Ahluwalia
+# Email ID - jasminder.ahluwalia@sigmoidanalytics.com 
 # 1) Configure smtp in localhost.
 sudo apt update
 sudo apt install postfix mailutils -y
